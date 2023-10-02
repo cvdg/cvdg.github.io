@@ -23,7 +23,7 @@ h8 {
   text-align: left;
   margin: 0 0 20px;
 }
-p {
+p, pre {
   color: #ffffff;
   padding-left: 30px;
   font-size: 15px;
