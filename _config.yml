@@ -54,7 +54,7 @@ plugins:
 
 header_pages:
   - public_keys.md
-  - todo.md
+  - links.md
   - about.md
 
 minima:
