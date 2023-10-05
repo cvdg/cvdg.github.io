@@ -20,10 +20,10 @@
 
 title: "CvdG blog"
 author: "Cees van de Griend"
-email: "cees.van.de.griend@protonmail.com"
-description: "The blog of a expert Linux System Administrator and DevOps Engineer."
+email: "cvdg@cvdg.eu"
+description: "The website of an experienced Linux System Administrator and DevOps Engineer."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cvdg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.cvdg.eu" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: cvdg
 
@@ -31,6 +31,7 @@ github_username: cvdg
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
