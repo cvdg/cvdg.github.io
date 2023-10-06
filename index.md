@@ -2,6 +2,4 @@
 layout: home
 ---
 
-## Work in Progress
-
-The layout and style are still not done.
+__Work in Progress:__ The layout and style are still not done.
