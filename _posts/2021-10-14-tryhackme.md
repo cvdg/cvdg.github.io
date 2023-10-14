@@ -10,7 +10,7 @@ tags: ["thm"]
 
 Today I finished the **Pre-Security Path** on [TryHackMe](https://www.tryhackme.com/)
 
-![Certificate](/assets/images/THM-DLTJ2OJY2D.png)
+![Certificate](/images/THM-DLTJ2OJY2D.png)
 
 It was fun, a hands on experience with basic knowledge of:
 - Internet
