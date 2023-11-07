@@ -2,7 +2,7 @@
 layout: post
 title: "TryHackMe Certificate"
 date: 2021-10-14T16:21:16+02:00
-categories: ["TryHackMe"]
+categories: ["tryhackme"]
 tags: ["thm"]
 ---
 

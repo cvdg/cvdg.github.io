@@ -2,7 +2,7 @@
 layout: post
 title: "TryHackMe - DNS in Detail"
 date: 2021-10-13T13:00:00+02:00
-categories: ["TryHackMe"]
+categories: ["tryhackme"]
 tags: ["thm"]
 ---
 

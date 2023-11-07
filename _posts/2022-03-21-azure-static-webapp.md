@@ -2,7 +2,7 @@
 layout: post
 title: "Azure Static Webapp"
 date: 2022-03-21T10:30:00+01:00
-categories: ["Azure"]
+categories: ["azure"]
 tags: ["az", "snfl"]
 ---
 

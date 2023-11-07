@@ -2,7 +2,7 @@
 layout: post
 title: "TryHackMe - HTTP in Detail"
 date: 2021-10-13T13:01:00+02:00
-categories: ["TryHackMe"]
+categories: ["tryhackme"]
 tags: ["thm"]
 ---
 

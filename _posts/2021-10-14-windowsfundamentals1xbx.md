@@ -2,7 +2,7 @@
 layout: post
 title: "TryHackMe - Windows Fundamentals 1"
 date: 2021-10-14T12:00:00+02:00
-categories: ["TryHackMe"]
+categories: ["tryhackme"]
 tags: ["thm"]
 ---
 

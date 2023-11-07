@@ -2,7 +2,7 @@
 layout: post
 title: "TryHackMe"
 date: 2021-10-12T09:50:55+02:00
-categories: ["TryHackMe"]
+categories: ["tryhackme"]
 tags: ["thm", "pzzl"]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "TryHackMe - What is networking?"
 date: 2021-10-13T12:01:00+02:00
-categories: ["TryHackMe"]
+categories: ["tryhackme"]
 tags: ["thm"]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "TryHackMe - Intro to LAN"
 date: 2021-10-13T12:00:00+02:00
-categories: ["TryHackMe"]
+categories: ["tryhackme"]
 tags: ["thm"]
 ---
 

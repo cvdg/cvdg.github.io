@@ -2,7 +2,7 @@
 layout: post
 title: "TryHackMe - Burp Suite"
 date: 2021-10-23T18:00:00+02:00
-categories: ["TryHackMe"]
+categories: ["tryhackme"]
 tags: ["thm"]
 ---
 

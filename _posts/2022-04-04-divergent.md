@@ -2,7 +2,7 @@
 layout: post
 title: "Divergent"
 date: 2022-04-04T11:30:00+01:00
-categories: ["Divergent"]
+categories: ["divergent"]
 tags: ["dvrg", "ansible"]
 ---
 

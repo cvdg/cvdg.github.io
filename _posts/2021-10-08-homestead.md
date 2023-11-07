@@ -2,7 +2,7 @@
 layout: post
 title: "Homestead"
 date: 2021-10-08T11:29:51+02:00
-categories: ["Homestead"]
+categories: ["homestead"]
 tags: ["hmst", "hugo", "lke"]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "TryHackMe - Putting it all together"
 date: 2021-10-13T13:02:00+02:00
-categories: ["TryHackMe"]
+categories: ["tryhackme"]
 tags: ["thm"]
 ---
 
