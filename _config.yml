@@ -20,7 +20,7 @@
 
 title: "CvdG blog"
 author: "Cees van de Griend"
-email: "cvdg@cvdg.eu"
+email: "cees.van.de.griend@cvdg.eu"
 description: "The website of an experienced Linux System Administrator and DevOps Engineer."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.cvdg.eu" # the base hostname & protocol for your site, e.g. http://example.com
@@ -32,6 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginator
 
 # Exclude from processing.
 # The following items will not be processed, by default.
